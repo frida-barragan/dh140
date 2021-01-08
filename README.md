@@ -9,7 +9,7 @@ Application of structural elements, including loops, dictionaries, if statements
 The project I am interested in conducting is in the topic of health care and accessibility. For this project, I will create a map and add a pin in the respective coordinates for each clinic in Los Angeles county. In the same map I will use a gradient of colors to depict the average income of each city within the Los Angeles county area. The map with these two data sets will create an image of what the distribution of clinics is compared to the income of an area. 
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/3/32/20190616154621%21Echo_Park_Lake_with_Downtown_Los_Angeles_Skyline.jpg)
-_Los Angeles County Skyline_
+_Los Angeles County Skyline (source: Wikipedia.com)_
 
 ### Objectives for the class
 My objectives for this class are:
