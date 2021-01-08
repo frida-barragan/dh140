@@ -11,6 +11,6 @@ The project I am interested in conducting is in the topic of health care and acc
 ![image](https://upload.wikimedia.org/wikipedia/commons/3/32/20190616154621%21Echo_Park_Lake_with_Downtown_Los_Angeles_Skyline.jpg)
 _Los Angeles County Skyline (source: Wikipedia.com)_
 
-### Objectives for the class
+### Objectives
 My objectives for this class are:
 * Understand the basics of coding and how to visualize specific data sets
