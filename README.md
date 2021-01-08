@@ -14,3 +14,6 @@ _Los Angeles County Skyline (source: Wikipedia.com)_
 ### Objectives
 My objectives for this class are:
 * Understand the basics of coding and how to visualize specific data sets
+* Learn how to select and clean data sets
+* Learn to use maps as a strategy to depict data
+
