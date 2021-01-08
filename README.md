@@ -1,6 +1,6 @@
 ###### dh140
 # Hi! My name is Frida Barragan!
-I am a fourth year Biology major at UCLA. My interests lie mostly in the **healthcare industry** and **accessibility to health services**. My advocacy for health care service accessibility resulted from my volunteering in local Los Angeles clinics as a Spanish interpreter. That opportunity allowed me to understand how many people unfortunately lack access to basic medical services that would greatly improve their livelihood. 
+I am a fourth year Biology major at UCLA. My interests lie mostly in the **healthcare industry** and **accessibility to health services**. My advocacy for medical accessibility resulted from my volunteering as a Spanish interpreter for local Santa Monica clinics. That opportunity allowed me to understand how many people unfortunately lack access to basic medical services that would greatly improve their livelihood. 
 
 ### Coding for Digital Humanities 140 
 Application of structural elements, including loops, dictionaries, if statements, etc, in research. Creation of a project in the humanities and social sciences to showcase management and visual representations of data sets.
