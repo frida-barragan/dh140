@@ -1,8 +1,8 @@
-<p align="center">
 <b>
+<p align="center">
 Week 1 Reading Assignment
-  <b/>
   <p/>
+  <b/>
 
 
 <p align="center">
