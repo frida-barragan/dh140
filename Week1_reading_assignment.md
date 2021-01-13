@@ -1,12 +1,10 @@
 <p align="center">
-
 Week 1 Reading Assignment
-
+  <p/>
+<p align="center">
 <img src= "https://upload.wikimedia.org/wikipedia/commons/4/45/PIA23792-1600x1200%281%29.jpg" width="250" height="250"> 
-
 _Comet NEOWISE (Source: Wikipedia)_
-
-<p/>
+   <p/>
 
 The article "Explore the Role of Coding in Data Science and Analytics" talks about what data science is and what is its importance. According to the article, data science is highly applicable to any field that uses sets of data. Various skills needed for being successful in data science are mentioned, including knowledge in programming and visualizations. The article also includes a potential process of data science and the steps usually required in experiments relating to data sets. This article reports that the first step of a sata science experiment is planning and designing an experiment, followed by obtaining and cleaning the appropriate data, and lastly analyzing and visualizing the data. Some of the programming languages and tools such as Python to obtain and clean data, packages like numpy and pandas for data matrix calculations and MATLAB for data analysis are explained. The article concludes with a couple of case studies in which data science has been utilized and how the field is expanding.
 
