@@ -5,6 +5,7 @@ Week 1 Reading Assignment
 <img src= "https://upload.wikimedia.org/wikipedia/commons/4/45/PIA23792-1600x1200%281%29.jpg" width="250" height="250"> 
   <p/>
 <p align="center">
+  
 _Comet NEOWISE (Source: Wikipedia)_
   <p/>
 
