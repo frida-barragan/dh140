@@ -13,4 +13,4 @@ The article "Explore the Role of Coding in Data Science and Analytics" talks abo
 
 From the articles I read online, this article spoke the most to me because I felt like its approach to data science and coding is really thorough and set up an explanation that is easy to follow and understand. The article explains the function of data science and how the process can be done which I think is really helpful to have an idea of how a project involving data sets should be planned and done. This article informs my goals for data science with its explanation of the different uses for data sets and its vast application in various fields. Also, the different tools and programming languages are very helpful because it helped me get an idea of the resources available for my project and what direction I can take my project to take advantage of them. Finally, I think the case studies were interesting and fun to read about, it puts the importance of data science into perspective. 
 
-Source Link: https://junilearning.com/blog/guide/coding-and-data-science/
+**Source Link: https://junilearning.com/blog/guide/coding-and-data-science/**
