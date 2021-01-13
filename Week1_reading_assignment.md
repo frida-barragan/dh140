@@ -1,5 +1,7 @@
 <p align="center">
-**Week 1 Reading Assignment**
+<b>
+Week 1 Reading Assignment
+  <b/>
   <p/>
 <p align="center">
 <img src= "https://upload.wikimedia.org/wikipedia/commons/4/45/PIA23792-1600x1200%281%29.jpg" width="250" height="250"> 
