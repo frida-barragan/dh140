@@ -10,7 +10,7 @@ Week 1 Reading Assignment
   
 <p align="center">
 <i>
-Comet NEOWISE imaged with astronomical survey data (Image source: Wikipedia)
+Comet NEOWISE imaged with astronomical survey data (Image source: Wikipedia.com)
   </i>
   </p>
   
