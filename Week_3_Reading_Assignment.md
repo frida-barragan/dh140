@@ -15,11 +15,9 @@ Missing maps mapathon events distribution 2016 (Image source: Wikipedia.com)
   </p>
 <b>  
 Your thoughts on using open data for humanitarian causes
-  
-  
   <br>
   </b>
-
+  
 
 I think using open data for humanitarian causes can have a positive effect in how community projects are developed and what their goals are. I think it can lead to great improvements in plans geared towards the community and the response from individuals affected by them. Open data allows people to have access to so much information that can be used to better the quality of life of many through the investment of economic funds within the public sector.
 <b>
