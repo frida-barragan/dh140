@@ -26,15 +26,11 @@ I think using open data for humanitarian causes can have a positive effect in ho
 Your thoughts on how open data can be used for different causes
   <br>
   </b>
-  
-  
 Open data can be used to really expand on the concept of user accessibility. I think that there is a lot of data out there and even more space for improvements in areas of public service. Personally, public transportation is vital for my daily commute and I think there is a lot of potential for bettering the routes and services in general. The service as is, could use some improvements in the general structure and the public service routes and stops. 
 <b>
   
   
 What do you think you (and your cohort) can do with open data to make this world a better place?
   <br>
-  </b>
-  
-  
+  </b> 
 I think that some of the actions one can take to make this world a better place using open data include using visualizations that are easy to understand and use data without bias. Also, making these projections available could potentially lead to great exposure and more awareness of open data. Another effect of using open data is the vast amount of knowledge that will be put out on the world for everyone to have access to and use to hopefully create positive change within society.
