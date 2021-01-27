@@ -15,6 +15,8 @@ Missing maps mapathon events distribution 2016 (Image source: Wikipedia.com)
   </p>
 <b>  
 Your thoughts on using open data for humanitarian causes
+  
+  
   <br>
   </b>
 
